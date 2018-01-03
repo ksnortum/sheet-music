@@ -1,5 +1,5 @@
 \header {
-  title = "Test Tool, B"
+  title = "Test Tool, C"
   composer = "Knute Snortum"
 }
 
